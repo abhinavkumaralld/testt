@@ -12,7 +12,7 @@ import { Provider, useDispatch, useSelector } from "react-redux";
 
 // added comment by abhiJnv for git
 
-// adding to make conflick by abhi2272
+// adding to start a conflick by abhiJnv
 
 import Store from "./redux/Store";
 // import CommentSection from "./components/CommentSection";
