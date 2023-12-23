@@ -12,7 +12,7 @@ import { Provider, useDispatch, useSelector } from "react-redux";
 
 // added comment by abhiJnv for git
 
-// adding to make conflick by abhi2272
+// adding to start a conflick by abhiJnv
 // adding one more comment
 
 import Store from "./redux/Store";
